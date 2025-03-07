@@ -1,1 +1,1 @@
-Deployed Link: https://deadrock070.github.io/my-portfolio/
+Deployed Link: https://my-portfolio-taupe-alpha.vercel.app/
